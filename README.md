@@ -70,5 +70,5 @@ ecoded ] 100B1C64A10000000000000000000000000000000000000000000000000000000000000
 
 ```
 
-![data mapping 0](https://github.com/aschiweck/SolvisRemote/doc/schema.png "data mapping 0")
-![data mapping 1](https://github.com/aschiweck/SolvisRemote/doc/schemam.png "data mapping 1")
+![data mapping 0](https://github.com/aschiweck/SolvisRemote/blob/master/doc/schema.png "data mapping 0")
+![data mapping 1](https://github.com/aschiweck/SolvisRemote/blob/master/doc/schemam.png "data mapping 1")
