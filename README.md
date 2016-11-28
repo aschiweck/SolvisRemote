@@ -1,7 +1,8 @@
 # SolvisRemote
 A simple python wrapper to access data from a SolvisRemote.
 
-```[~]# watch -n 2 python example.py
+```
+[~]# watch -n 2 python example.py
 
 Every 2,0s: python example.py                                                         Mon Nov 28 18:47:58 2016
 
